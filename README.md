@@ -73,7 +73,7 @@ void main() {
 - **Convert**: [example/dart/convert.dart](example/convert.dart)
 - **Merge**: [example/dart/merge.dart](example/merge.dart)
 
-[kubeconfig_logo]: assets/logo.svg
+[kubeconfig_logo]: https://raw.githubusercontent.com/fatihsever/kubeconfig-lib/main/assets/logo.svg
 [kubeconfig_link]: https://fatihsever.github.io/kubeconfig-lib/
 [ci_badge]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml/badge.svg?branch=main
 [ci_link]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml
