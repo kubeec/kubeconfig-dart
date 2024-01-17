@@ -2,6 +2,8 @@ name: kubeconfig
 description: Kubeconfig utility library for Javascript and Dart. Validate, convert, or merge kubeconfig files.
 version: 1.0.0+1
 repository: https://github.com/fatihsever/kubeconfig-lib
+issue_tracker: https://github.com/fatihsever/kubeconfig-lib/issues
+documentation: https://fatihsever.github.io/kubeconfig-lib
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
