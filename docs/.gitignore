@@ -1,7 +1,6 @@
-.yarn/
-.next/
+.*
+!/.gitignore
 node_modules/
-dist/
 out/
 
 # Logs
