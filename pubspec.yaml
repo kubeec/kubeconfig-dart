@@ -25,5 +25,5 @@ dev_dependencies:
   very_good_analysis: ^5.1.0
 
 screenshots:
-  - description: The kubeconfig package logo.
+  - description: Kubeconfig logo
     path: assets/logo.webp
