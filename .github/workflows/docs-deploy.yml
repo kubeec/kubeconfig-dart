@@ -45,7 +45,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 1d5774127406cf39ef881ff8d84f83c7
           projectName: kubeconfig-lib
-          directory: .vercel/output/static
+          directory: docs/.vercel/output/static
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
         id: publish
       - name: Outputs
