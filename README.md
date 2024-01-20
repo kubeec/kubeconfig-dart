@@ -77,8 +77,8 @@ void main() {
 [kubeconfig_link]: https://fatihsever.github.io/kubeconfig-lib/
 [ci_badge]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml/badge.svg?branch=main
 [ci_link]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml
-[coverage_badge]: https://codecov.io/github/fatihsever/kubeconfig-lib/badges/coverage.svg?branch=main
-[coverage_link]: https://codecov.io/github/fatihsever/kubeconfig-lib/badges?branch=master
+[coverage_badge]: https://codecov.io/github/fatihsever/kubeconfig-lib/graph/badge.svg?token=HJNIIKONS2
+[coverage_link]: https://codecov.io/github/fatihsever/kubeconfig-lib
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [pub_badge]: https://img.shields.io/pub/v/kubeconfig
