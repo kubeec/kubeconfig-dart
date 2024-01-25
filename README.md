@@ -23,13 +23,12 @@ Please visit the [official documentation][docs_link].
 For quick start, please include the following in pubspec.yaml
 ```yaml
 dependencies:
-  kubeconfig: 1.0.0+1
+  kubeconfig: ^1.0.0+2
 ```
 For more information, please visit the [pub.dev](https://pub.dev/packages/kubeconfig/install)
 
 ## Quick Start 🚀
 Validating a kubeconfig file:
-
 ```dart
 import 'dart:io';
 import 'package:kubeconfig/kubeconfig.dart';
@@ -42,9 +41,19 @@ void main() {
 ```
 
 ## Examples 📋
-- **Validate**: [example/dart/validate.dart](example/validate.dart)
-- **Convert**: [example/dart/convert.dart](example/convert.dart)
-- **Merge**: [example/dart/merge.dart](example/merge.dart)
+```sh
+dart example/example.dart
+```
+
+- **Validate**: [example/validate.dart](example/validate.dart)
+- **Convert**: [example/convert.dart](example/convert.dart)
+- **Merge**: [example/merge.dart](example/merge.dart)
+```sh
+dart example/validate.dart
+dart example/convert.dart
+dart example/merge.dart
+```
+
 
 [kubeconfig_logo]: https://raw.githubusercontent.com/fatihsever/kubeconfig-lib/main/assets/logo.svg
 [kubeconfig_link]: https://kubeconfig-lib.pages.dev/
