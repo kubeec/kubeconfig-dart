@@ -47,7 +47,7 @@ void main() {
 - **Merge**: [example/dart/merge.dart](example/merge.dart)
 
 [kubeconfig_logo]: https://raw.githubusercontent.com/fatihsever/kubeconfig-lib/main/assets/logo.svg
-[kubeconfig_link]: https://fatihsever.github.io/kubeconfig-lib/
+[kubeconfig_link]: https://kubeconfig-lib.pages.dev/
 [ci_badge]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml/badge.svg?branch=main
 [ci_link]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml
 [coverage_badge]: https://codecov.io/github/fatihsever/kubeconfig-lib/graph/badge.svg?token=HJNIIKONS2
@@ -59,4 +59,4 @@ void main() {
 [npm_badge]: https://img.shields.io/npm/v/kubeconfig
 [npm_link]: https://www.npmjs.com/package/kubeconfig
 [fatihsever_link]: https://fatihsever.com/
-[docs_link]: https://fatihsever.github.io/kubeconfig-lib/
+[docs_link]: https://kubeconfig-lib.pages.dev/
