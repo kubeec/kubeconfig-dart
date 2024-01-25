@@ -4,7 +4,6 @@
 [![Coverage][coverage_badge]][coverage_link]
 [![License: MIT][license_badge]][license_link]
 [![pub][pub_badge]][pub_link]
-[![npm][npm_badge]][npm_link]
 
 ---
 A library that simplifies the management of kubeconfig files. It offers a bunch of features, such as validating, merging, and converting kubeconfig files, to ensure that you have a consistent and optimized configuration for accessing multiple Kubernetes clusters.
@@ -65,7 +64,5 @@ dart example/merge.dart
 [license_link]: https://opensource.org/licenses/MIT
 [pub_badge]: https://img.shields.io/pub/v/kubeconfig
 [pub_link]: https://pub.dev/packages/kubeconfig
-[npm_badge]: https://img.shields.io/npm/v/kubeconfig
-[npm_link]: https://www.npmjs.com/package/kubeconfig
 [fatihsever_link]: https://fatihsever.com/
 [docs_link]: https://kubeconfig-lib.pages.dev/
