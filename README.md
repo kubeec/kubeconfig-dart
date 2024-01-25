@@ -19,10 +19,15 @@ Developed with 💙 by [Fatih Sever][fatihsever_link]
 Please visit the [official documentation][docs_link].
 
 ## Installation 💻
-For quick start, please include the following in pubspec.yaml
-```yaml
-dependencies:
-  kubeconfig: ^1.0.0+2
+For quick start, please use this package as a library
+
+With Dart:
+```sh
+dart pub add kubeconfig
+```
+With Flutter:
+```sh
+flutter pub add kubeconfig
 ```
 For more information, please visit the [pub.dev](https://pub.dev/packages/kubeconfig/install)
 
