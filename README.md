@@ -20,15 +20,6 @@ Developed with 💙 by [Fatih Sever][fatihsever_link]
 Please visit the [official documentation][docs_link].
 
 ## Installation 💻
-### From npm:
-`kubeconfig` compiled to JavaScript, as an npm package. You can add it to your project using the command below.
-```bash
-npm install --save kubeconfig
-```
-
-For more information, please visit the [npmjs.com](https://www.npmjs.com/package/kubeconfig)
-
-### From pub:
 For quick start, please include the following in pubspec.yaml
 ```yaml
 dependencies:
@@ -37,20 +28,8 @@ dependencies:
 For more information, please visit the [pub.dev](https://pub.dev/packages/kubeconfig/install)
 
 ## Quick Start 🚀
-
 Validating a kubeconfig file:
 
-### JavaScript:
-```javascript
-import { readFileSync } from 'fs';
-import { Kubeconfig } from './kubeconfig';
-
-let kubeconfigYaml = readFileSync('kube/config.yaml');
-let kubeconfig = Kubeconfig.fromYaml(kubeconfigYaml);
-let validationResult = kubeconfig.validate();
-```
-
-### Dart:
 ```dart
 import 'dart:io';
 import 'package:kubeconfig/kubeconfig.dart';
@@ -63,12 +42,6 @@ void main() {
 ```
 
 ## Examples 📋
-### Javascript:
-- **Validate**: [example/js/validate.js](example/validate.js)
-- **Convert**: [example/js/validate.js](example/validate.js)
-- **Merge**: [example/js/validate.js](example/validate.js)
-
-### Dart:
 - **Validate**: [example/dart/validate.dart](example/validate.dart)
 - **Convert**: [example/dart/convert.dart](example/convert.dart)
 - **Merge**: [example/dart/merge.dart](example/merge.dart)
