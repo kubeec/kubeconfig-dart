@@ -58,16 +58,15 @@ dart example/convert.dart
 dart example/merge.dart
 ```
 
-
-[kubeconfig_logo]: https://raw.githubusercontent.com/fatihsever/kubeconfig-lib/main/assets/logo.svg
-[kubeconfig_link]: https://kubeconfig-lib.pages.dev/
-[ci_badge]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml/badge.svg?branch=main
-[ci_link]: https://github.com/fatihsever/kubeconfig-lib/actions/workflows/ci.yml
-[coverage_badge]: https://codecov.io/github/fatihsever/kubeconfig-lib/graph/badge.svg?token=HJNIIKONS2
-[coverage_link]: https://codecov.io/github/fatihsever/kubeconfig-lib
+[kubeconfig_logo]: https://raw.githubusercontent.com/nopso/kubeconfig-dart/main/assets/logo.svg
+[kubeconfig_link]: https://kubeconfig-dart.nopso.io/
+[ci_badge]: https://github.com/nopso/kubeconfig-dart/actions/workflows/ci.yml/badge.svg?branch=main
+[ci_link]: https://github.com/nopso/kubeconfig-dart/actions/workflows/ci.yml
+[coverage_badge]: https://codecov.io/github/nopso/kubeconfig-dart/graph/badge.svg?token=HJNIIKONS2
+[coverage_link]: https://codecov.io/github/nopso/kubeconfig-dart
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [pub_badge]: https://img.shields.io/pub/v/kubeconfig
 [pub_link]: https://pub.dev/packages/kubeconfig
 [fatihsever_link]: https://fatihsever.com/
-[docs_link]: https://kubeconfig-lib.pages.dev/
+[docs_link]: https://kubeconfig-dart.nopso.io/
