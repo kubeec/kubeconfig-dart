@@ -8,7 +8,7 @@
 ---
 A library that simplifies the management of kubeconfig files. It offers a bunch of features, such as validating, merging, and converting kubeconfig files, to ensure that you have a consistent and optimized configuration for accessing multiple Kubernetes clusters.
 
-Developed with 💙 by [Fatih Sever][fatihsever_link]
+Developed with 💙 by [Nopso][nopso_link]
 
 ## Features ✨
 - **Validate**: Check the syntax and structure of kubeconfig files for common errors or inconsistencies.
@@ -68,5 +68,5 @@ dart example/merge.dart
 [license_link]: https://opensource.org/licenses/MIT
 [pub_badge]: https://img.shields.io/pub/v/kubeconfig
 [pub_link]: https://pub.dev/packages/kubeconfig
-[fatihsever_link]: https://fatihsever.com/
+[nopso_link]: https://nopso.io/
 [docs_link]: https://kubeconfig-dart.nopso.io/
