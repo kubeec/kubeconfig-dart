@@ -1,3 +1,6 @@
+## 1.0.2
+- Transfer the pub.dev package to nopso.io publisher
+
 ## 1.0.1
 - First release
 
