@@ -1,9 +1,8 @@
 name: kubeconfig
 description: Kubeconfig library for Dart. Validate, convert, or merge kubeconfig files.
-version: 1.0.2
-repository: https://github.com/nopso/kubeconfig-dart
-issue_tracker: https://github.com/nopso/kubeconfig-dart/issues
-documentation: https://kubeconfig-dart.nopso.io
+version: 1.0.3
+repository: https://github.com/kubeec/kubeconfig-dart
+issue_tracker: https://github.com/kubeec/kubeconfig-dart/issues
 topics: [kubernetes, kubeconfig]
 
 environment:

@@ -15,6 +15,6 @@ export default {
     );
   },
   project: {
-    link: "https://github.com/nopso/kubeconfig-dart",
+    link: "https://github.com/kubeec/kubeconfig-dart",
   },
 };
